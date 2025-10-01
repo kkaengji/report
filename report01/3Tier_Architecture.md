@@ -1,4 +1,4 @@
-# 3계층 구조(3Tier-Architecture)란?
+# 3계층 구조(3Tier-Architecture)
 애플리케이션의 기능을 표현 계층(Presentation Tier), 비즈니스/애플리케이션 계층(Business/Application Tier), **데이터 계층(Data Tier)**의 세 가지 독립적인 계층으로 분리합니다. 각 계층은 고유한 역할과 책임을 가지며, 보통 물리적으로 독립된 서버나 환경에 배포되어 운영됩니다.
 
 ## 2. 3계층 구조의 정의 및 구성

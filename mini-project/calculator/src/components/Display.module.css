@@ -1,0 +1,20 @@
+.Display {
+  background-color: black;
+  border-radius: 10px;
+
+  width: 300px;
+  height: 80px;
+
+  margin-bottom: 20px;
+}
+
+.DisplauValue {
+  color: white;
+  font-size: 30px;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  min-height: 80px;
+  padding: 15px;
+}

@@ -1,9 +1,13 @@
 import styles from "./Display.module.css";
 
-const Display = () => {
+interface DisplayProps {
+  value: string;
+}
+
+const Display = ({ value }: DisplayProps) => {
   return (
     <div className={styles.Display}>
-      <div className={styles.DisplauValue}>0</div>
+      <div className={styles.DisplayValue}>{value}</div>
     </div>
   );
 };

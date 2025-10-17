@@ -1,20 +1,15 @@
 .Display {
-  background-color: black;
-  border-radius: 10px;
-
-  width: 300px;
-  height: 80px;
-
+  background-color: #f0f0f0;
+  border-radius: 15px;
+  padding: 20px;
   margin-bottom: 20px;
 }
 
-.DisplauValue {
-  color: white;
-  font-size: 30px;
-
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  min-height: 80px;
-  padding: 15px;
+.DisplayValue {
+  font-size: 3rem; /* 글자 크기를 대폭 키웠습니다 */
+  color: #333;
+  text-align: right;
+  font-weight: 300;
+  word-wrap: break-word;
+  word-break: break-all;
 }

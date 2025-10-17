@@ -1,8 +1,9 @@
 # 🧮 React & TypeScript 계산기
+: React와 TypeScript를 사용하여 만든 간단한 웹 계산기 애플리케이션입니다.
 
 <img width="200" height="400" alt="캡처" src="https://github.com/user-attachments/assets/d42c0afb-15c3-4a82-ac16-67f0a8e64418" />
 
-React와 TypeScript를 사용하여 만든 간단한 웹 계산기 애플리케이션입니다.
+
 ---
 
 ## ✨ 주요 기능
